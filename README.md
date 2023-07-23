@@ -2,17 +2,7 @@
 <h3 align="center">Expert to make scalable application with MERN Stack.</h3>
 
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="azher-saeed" width="300" height="250" />
-
-- 🌱 I’m currently learning **Langchain, LLM Model, Integrate AI in web apps**
-
-- 💬 Ask me about **React,Next,Node,Langchain,Blockchain**
-
-- 📫 How to reach me **azherofficial2020@gmail.com**
-
-- ⚡ Fun fact **I'm tech enthusiast**
-
-- <p align="center">
+<p align="center">
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
  </a>
@@ -30,6 +20,18 @@
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
  </a>
 </p>
+
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="azher-saeed" width="300" height="250" />
+
+- 🌱 I’m currently learning **Langchain, LLM Model, Integrate AI in web apps**
+
+- 💬 Ask me about **React,Next,Node,Langchain,Blockchain**
+
+- 📫 How to reach me **azherofficial2020@gmail.com**
+
+- ⚡ Fun fact **I'm tech enthusiast**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
