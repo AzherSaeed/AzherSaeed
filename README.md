@@ -2,7 +2,7 @@
 <h3 align="center">Expert to make scalable application with MERN Stack.</h3>
 
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="azher-saeed" width="300" height="250" />
+<img align="right" src="https://i.gifer.com/7SvE.gif" alt="azher-saeed" width="300" height="250" />
 
 - 🌱 I’m currently learning **Langchain, LLM Model, Integrate AI in web apps**
 
