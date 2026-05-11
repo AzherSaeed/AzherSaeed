@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **React,Next,Node,Langchain,Blockchain**
 
-- 📫 How to reach me **azherofficial2020@gmail.com**
-
 - ⚡ Fun fact **I'm tech enthusiast**
 
 
