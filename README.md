@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Langchain, LLM Model, Integrate AI in web apps**
 
-- 💬 Ask me about **React,Next,Node,Python,Flash, Django**
+- 💬 Ask me about **React,Next,Node,Python,Flask, Django**
 
 - ⚡ Fun fact **I'm tech enthusiast**
 
